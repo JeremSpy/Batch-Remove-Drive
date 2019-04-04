@@ -1,16 +1,31 @@
 # Batch to safety remove pendrive ( FRENCH )
 
 I made a bat file with few commands that allows me to remove any drive in a safe way.
-
+<ul>
+        <li>
 First:  I have downloaded the soft at https://www.uwe-sieber.de/drivetools.html
+        </li>
+        <li>
 Then:   I found the command that answers to my need ( removedrive u: -L )
+        </li>
+        <li>
 Then:   I code some lines of batch to prompt which drive to eject
+        </li>
+        <li>
 Then:   Some corrections made
+        </li>
+        <li>
 Then:   Create an icon ( rather, found one in the Internet and arrange it :) )
         ( http://safelyremove.com/assets/images/sr/sr-icon-huge.png )
+        </li>
+        <li>
 Then:   Compiled the script with the icon added ( Bat to Exe Converter )
         ( http://www.f2ko.de/en/b2e.php --> WARNING: Trojan sometimes may appears )
+        </li>
+        <li>
 Finaly: Program was compiled without virus ( virtual machine and antivirus action )
+        </li>
+</ul>
 
 -------------------------------------------------------------------------------------
 
